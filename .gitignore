@@ -10,3 +10,4 @@ replication_state.json
 *.log
 logs/
 .env
+snyk_rules.instructions.md
